@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[password-generator.png](https://github.com/HarshDekate/Password-Generator/blob/main/password.png)" alt="Password Generator" width="300">
+  <img src="https://github.com/HarshDekate/Password-Generator/blob/main/password.png" alt="Password Generator" width="300">
 </div>
 
 <h1 align="center">Password Generator</h1>
