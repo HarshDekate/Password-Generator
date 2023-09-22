@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://github.com/HarshDekate/Password-Generator/blob/main/password.png" alt="Password Generator" width="300">
-</div>
-
 <h1 align="center">Password Generator</h1>
 
 <p align="center">
